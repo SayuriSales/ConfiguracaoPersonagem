@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ConfiguracaoPersonagem</string>
+    <string name="label_titulo">Crie seu personagem</string>
+    <string name="label_nome">Nome do Personagem</string>
+    <string name="label_sexo">Sexo</string>
+    <string name="label_feminino">Feminino</string>
+    <string name="label_masculino">Masculino</string>
+    <string name="label_outro">Outro</string>
+    <string name="label_rodape">Desenvolvido por SAYURI SALES</string>
+    <string name="label_classe">Classe</string>
+    <string name="anao">Anão</string>
+    <string name="elfo">Elfo</string>
+    <string name="orc">Orc</string>
+    <string name="mago">Mago</string>
+    <string name="guerreiro">Guerreiro</string>
+    <string name="label_forca">Força</string>
+    <string name="label_criar">Criar</string>
+</resources>
